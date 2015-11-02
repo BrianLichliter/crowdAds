@@ -9,13 +9,13 @@ version 0.12.1.
 
 ## Build & development
 
-Make sure to run 'npm install' and 'grunt install'
+Make sure to run `npm install` and `grunt install`
 
 Run `grunt` for building and `grunt serve` for preview.
 
 ## Deployment
 
-Run 'firebase deploy' and 'firebase open'
+Run `firebase deploy` and `firebase open`
 
 ## Testing
 
